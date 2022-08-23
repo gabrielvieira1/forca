@@ -16,7 +16,7 @@ void chuta()
 {
  char chute;
  printf("\n\nQual letra? \n");
- scanf("%c", &chute);
+ scanf(" %c", &chute);
 
  chutes[tentativas] = chute;
  tentativas++;
