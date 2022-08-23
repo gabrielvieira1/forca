@@ -3,6 +3,7 @@
   ".sequelizerc": "javascript",
   ".stylelintrc": "json",
   ".prettierrc": "json",
-  "stdio.h": "c"
+  "stdio.h": "c",
+  "forca.h": "c"
  }
 }
